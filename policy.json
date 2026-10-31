@@ -1,0 +1,8 @@
+{
+  "allowed_hosts": ["docs.python.org", "www.python.org", "ai.google.dev", "example.com"],
+  "max_input_chars": 60000,
+  "max_response_bytes": 262144,
+  "max_tool_calls": 4,
+  "max_redirects": 3,
+  "request_timeout_seconds": 12
+}

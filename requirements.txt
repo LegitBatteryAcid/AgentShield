@@ -1,0 +1,2 @@
+# Core AgentShield uses Python's standard library only.
+# Requires Python 3.11+ with Tkinter (included in standard Windows Python).
